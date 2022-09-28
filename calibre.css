@@ -1,0 +1,84 @@
+@font-face {
+    font-family: 'Calibre';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Calibre'), url('https://fonts.cdnfonts.com/s/22257/CalibreRegular.woff') format('woff');
+}
+@font-face {
+    font-family: 'Calibre';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Calibre'), url('https://fonts.cdnfonts.com/s/22257/CalibreRegularItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Calibre';
+    font-style: normal;
+    font-weight: 250;
+    src: local('Calibre'), url('https://fonts.cdnfonts.com/s/22257/CalibreThin.woff') format('woff');
+}
+@font-face {
+    font-family: 'Calibre';
+    font-style: italic;
+    font-weight: 250;
+    src: local('Calibre'), url('https://fonts.cdnfonts.com/s/22257/CalibreThinItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Calibre';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Calibre'), url('https://fonts.cdnfonts.com/s/22257/CalibreLight.woff') format('woff');
+}
+@font-face {
+    font-family: 'Calibre';
+    font-style: italic;
+    font-weight: 300;
+    src: local('Calibre'), url('https://fonts.cdnfonts.com/s/22257/CalibreLightItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Calibre';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Calibre'), url('https://fonts.cdnfonts.com/s/22257/CalibreMedium.woff') format('woff');
+}
+@font-face {
+    font-family: 'Calibre';
+    font-style: italic;
+    font-weight: 500;
+    src: local('Calibre'), url('https://fonts.cdnfonts.com/s/22257/CalibreMediumItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Calibre';
+    font-style: normal;
+    font-weight: 600;
+    src: local('Calibre'), url('https://fonts.cdnfonts.com/s/22257/CalibreSemibold.woff') format('woff');
+}
+@font-face {
+    font-family: 'Calibre';
+    font-style: italic;
+    font-weight: 600;
+    src: local('Calibre'), url('https://fonts.cdnfonts.com/s/22257/CalibreSemiboldItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Calibre';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Calibre'), url('https://fonts.cdnfonts.com/s/22257/CalibreBold.woff') format('woff');
+}
+@font-face {
+    font-family: 'Calibre';
+    font-style: italic;
+    font-weight: 700;
+    src: local('Calibre'), url('https://fonts.cdnfonts.com/s/22257/CalibreBoldItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Calibre';
+    font-style: normal;
+    font-weight: 900;
+    src: local('Calibre'), url('https://fonts.cdnfonts.com/s/22257/CalibreBlack.woff') format('woff');
+}
+@font-face {
+    font-family: 'Calibre';
+    font-style: italic;
+    font-weight: 900;
+    src: local('Calibre'), url('https://fonts.cdnfonts.com/s/22257/CalibreBlackItalic.woff') format('woff');
+}

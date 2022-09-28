@@ -1,0 +1,25 @@
+ECP								Codes
+Bahamas, The					Bahamas
+Cabo Verde						Cape Verde
+Congo, Dem. Rep.				Congo, the Democratic Republic of the
+Congo, Rep.						Congo
+Cote d'Ivoire					Côte d'Ivoire
+Egypt, Arab Rep.				Egypt
+Federated States of Micronesia	Micronesia, Federated States of
+Gambia, The						Gambia
+Iran, Islamic Rep.				Iran, Islamic Republic of
+Korea, Dem. Rep.				Korea, Democratic People's Republic of
+Korea, Rep.						Korea, Republic of
+Kosovo							XXK
+Kyrgyz Republic					Kyrgyzstan
+Lao PDR							Lao People's Democratic Republic
+Moldova							Moldova, Republic of
+North Macedonia					Macedonia, the former Yugoslav Republic of
+Slovak Republic					Slovakia
+St. Kitts and Nevis				Saint Kitts and Nevis
+St. Lucia						Saint Lucia
+Tanzania						Tanzania, United Republic of
+Vatican City					VAT
+Venezuela, RB					Venezuela/ Venezuela, Bolivarian Republic of
+West Bank and Gaza				NA
+Yemen, Rep.						Yemen
